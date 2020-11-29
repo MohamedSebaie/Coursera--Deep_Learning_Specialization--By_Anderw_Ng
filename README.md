@@ -30,17 +30,8 @@ The five courses are:
 
 At last I've successfully completed the specialization and earned my [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/AU5BT52SF92P)!
 
-![](Coursera AU5BT52SF92P_1.jpg)
+![Coursera AU5BT52SF92P_1.jpg]
 
-
-
-
-
-
-
-## Next steps
-
-Taking [fast.ai](http://www.fast.ai/) courses series as it focuses more on the practical works.
 
 ## Acknowledgements
 
