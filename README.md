@@ -30,7 +30,7 @@ The five courses are:
 
 At last I've successfully completed the specialization and earned my [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/AU5BT52SF92P)!
 
-![Coursera AU5BT52SF92P_1.jpg]
+![](Certificate.png)
 
 
 ## Acknowledgements
